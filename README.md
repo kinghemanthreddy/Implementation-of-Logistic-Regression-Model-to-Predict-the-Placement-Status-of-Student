@@ -110,8 +110,11 @@ print(c.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](folder/196507791-4d653af8-9ba9-430d-bca5-148667236c3a.png)
-![the Logistic Regression Model to Predict the Placement Status of Student2](folder/196507935-afabf8d4-ae6f-4bc5-bb08-f2cf12fdc575.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](folder/s1.png)
+![the Logistic Regression Model to Predict the Placement Status of Student2](folder/s2.png)
+![the Logistic Regression Model to Predict the Placement Status of Student3](folder/s3.png)
+![the Logistic Regression Model to Predict the Placement Status of Student4](folder/s4.png)
+![the Logistic Regression Model to Predict the Placement Status of Student5](folder/s5.png)
 
 
 ## Result:
